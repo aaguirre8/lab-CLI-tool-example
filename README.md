@@ -21,7 +21,7 @@ source cli_lab/scripts/activate
 touch Makefile && touch requirements.txt && touch hello.py && touch test_hello.py
 ```
 
-4. Populate Makefile
+. Populate Makefile
 
 ```bash
 install:
